@@ -1,8 +1,7 @@
-/*O custo de um carro novo ao consumidor é a soma do custo de fábrica com a porcentagem 
-do distribuidor e dos impostos (aplicados ao custo de fábrica). Supondo que o percentual do 
-distribuidor seja de 28% e os impostos de 45%, escreva um programa para ler o custo de 
-fábrica de um carro, calcular, mostrar o resultado de cada cálculo e escrever o custo final ao 
-consumidor. */
+/*Uma revendedora de carros usados paga a seus funcionários vendedores um salário fixo por mês, 
+  mais uma comissão também fixa para cada carro vendido e mais 5% do valor das vendas por ele efetuadas.
+  Escrever um programa que leia o número de carros por ele vendidos, o valor total de suas vendas,
+  o salário fixo e o valor que ele recebe por carro vendido. Calcule e escreva o salário final do vendedor */
 
 let app = require('./saida')
 app.mostrarSaida()
