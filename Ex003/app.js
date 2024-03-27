@@ -4,5 +4,8 @@
 // Se a quantidade em estoque for maior ou igual a quantidade média escrever a mensagem 'Não efetuar compra',
 // senão escrever a mensagem 'Efetuar compra' 
 
+  // Qual o objetivo deste exercício?
+  // R: Manipular a quantidade de itens em um estoque, e gerenciar se é necessario efetuar ou nao a compra do produto.
+
 let app = require('./saida')
 app.mostrarSaida()

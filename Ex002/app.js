@@ -3,5 +3,8 @@
   Escrever um programa que leia o número de carros por ele vendidos, o valor total de suas vendas,
   o salário fixo e o valor que ele recebe por carro vendido. Calcule e escreva o salário final do vendedor */
 
+  // Qual o objetivo deste exercício?
+  // R: Calcular o salario final de um vendedor de automoveis juntando salario fixo com os seus acrescimos
+
 let app = require('./saida')
 app.mostrarSaida()

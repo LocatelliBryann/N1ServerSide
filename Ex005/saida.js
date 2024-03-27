@@ -4,7 +4,6 @@
 // mantidas as taxas de crescimento
 
 const saida = require("./processamento")
-const entrada = require("./entrada")
 
 function mostrarSaida() {
   console.log("Serao necessarios", saida.processamento().a," anos para a populacao do pais A igualar ou ultrapassar a polulacao do pais B.")

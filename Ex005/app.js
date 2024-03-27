@@ -3,5 +3,8 @@
 // escreva o número de anos necessários para que a população do país A ultrapasse ou iguale a população do país B, 
 // mantidas as taxas de crescimento
 
+  // Qual o objetivo deste exercício?
+  // R: Calcula a quantidade de anos necessários para que o país A alcance ou ultrapasse a população do país B.
+
 let app = require('./saida')
 app.mostrarSaida()

@@ -4,5 +4,9 @@ distribuidor seja de 28% e os impostos de 45%, escreva um programa para ler o cu
 fábrica de um carro, calcular, mostrar o resultado de cada cálculo e escrever o custo final ao 
 consumidor. */
 
+// Qual o objetivo deste exercício?
+// R: O objetivo é criar um programa para calculo do preço final de um automóvel após os calculos de adições no valor.
+
+
 let app = require('./saida')
 app.mostrarSaida()
